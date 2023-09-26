@@ -11,5 +11,5 @@ Details are in the "FRED how-to" word document.
 
 See my blog post at https://nrmkirkwood.github.io/projects/fumehoodfred/ for photos of the setup.
 
-![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/fhf-x.jpg?raw=true "Title")
+![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/fhf-x.jpg?raw=true "Title")
 
