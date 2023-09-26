@@ -29,19 +29,19 @@ You will also need:
 ## Building FRED
 Solder the alarm buzzer, reward buzzer, and Reed switch onto the Pico pins as indicated. The case provided assumes you solder the buzzers directly onto the Pico with no wires:
 
-![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/images/fhf-1.jpg?raw=true "Title")
+![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/images/fhf-1.jpg?raw=true "Title")
 
 The finished Pico should look like this:
 
-![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/images/fhf-2.jpg?raw=true "Title")
+![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/images/fhf-2.jpg?raw=true "Title")
 
 3D print the case and the Pico should fit in snugly. Use doubled sided tape to secure the wired Reed switch onto the top of case as pictured:
 
-![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/images/fhf-3.jpg?raw=true "Title")
+![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/images/fhf-3.jpg?raw=true "Title")
 
 Snap the lid on and if desired draw a smiley face:
 
-![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/images/fhf-4.jpg?raw=true "Title")
+![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/images/fhf-4.jpg?raw=true "Title")
 
 At this stage, plug the RPi Pico into your computer and follow instructions to [install ThonnyIDE](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/2), [setup MicroPython firmware](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/3) and [use the shell to run code off the Pico](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/4).
 
@@ -55,14 +55,14 @@ If all works well the FRED is ready to install.
 
 First attach Velcro or doubled-sided tape to the backside of the FRED case:
 
-![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/images/fhf-5.jpg?raw=true "Title")
+![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/images/fhf-5.jpg?raw=true "Title")
 
 To attached the FRED into the fume hood, pick a spot where the FRED can be close enough to the fume hood sash that there a < 1 cm gap between the Reed switches with the non-wired Reed switch on the sash *when the fume hood is fully closed*. Check this before sticking anything! Using Velcro stickers is handy as the FRED can be moved a bit after installation to optimise position. Some photos below show installation methods that work in our lab:
 
 Inside the fumehood, with unwired Reed switch on the inside of the sash near bottom:
 
-![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/images/fhf-8.jpg?raw=true "Title")
+![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/images/fhf-8.jpg?raw=true "Title")
 
 Outside the fumehood (recommended if possible), with unwired Reed switch on the hand-grip of the sash:
 
-![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/images/fhf-9.jpg?raw=true "Title")
+![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/images/fhf-9.jpg?raw=true "Title")
