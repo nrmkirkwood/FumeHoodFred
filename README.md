@@ -17,7 +17,7 @@ You will need (AUD price in brackets links to suggested supplier):
 - Alarm buzzer 3-5V ([$0.74](https://core-electronics.com.au/piezo-buzzer.html))
 - Door Switch Sensor ([$3.85](https://www.ebay.com.au/itm/154538574997))
 - Code (Python) (from this repo)
-- 3D printed case (2 files in this repo: base & snap-fit lid)
+- 3D printed case and lid (from this repo: [fhf-case](https://github.com/nrmkirkwood/FumeHoodFred/blob/images/fhf-case.stl) & [fhf-lid](https://github.com/nrmkirkwood/FumeHoodFred/blob/images/fhf-lid.stl))
 
 You will also need:
 
@@ -35,11 +35,11 @@ The finished Pico should look like this:
 
 ![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/images/fhf-2.jpg?raw=true "Title")
 
-3D print the case and the Pico should fit in snugly. Use doubled sided tape to secure the wired Reed switch onto the top of case as pictured:
+3D print the [case](https://github.com/nrmkirkwood/FumeHoodFred/blob/images/fhf-case.stl) & [lid](https://github.com/nrmkirkwood/FumeHoodFred/blob/images/fhf-lid.stl). The Pico should fit snugly into the case. Use doubled sided tape to secure the wired Reed switch onto the top of case as pictured:
 
 ![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/images/fhf-3.jpg?raw=true "Title")
 
-Snap the lid on and if desired draw a smiley face:
+Snap the lid on (it's a snap-fit so may require a little force). If desired draw a smiley face:
 
 ![Alt text](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/images/fhf-4.jpg?raw=true "Title")
 
