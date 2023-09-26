@@ -16,7 +16,7 @@ You will need (AUD price in brackets links to suggested suppliers in Australia):
 - 'Reward' piezo buzzer 3V ([$2.90](https://core-electronics.com.au/piezo-buzzer-ps1240.html))
 - 'Alarm' buzzer 3-5V ([$0.74](https://core-electronics.com.au/piezo-buzzer.html))
 - Reed Door Switch Sensor ([$3.85](https://www.ebay.com.au/itm/154538574997))
-- Code (Python) (from this repo: [fhf.py])
+- Code (Python) (from this repo: [fhf.py](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/fhf.py))
 - 3D printed case and lid (from this repo: [fhf-case](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/fhf-case.stl) & [fhf-lid](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/fhf-lid.stl))
 
 You will also need:
