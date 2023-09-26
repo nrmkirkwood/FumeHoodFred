@@ -21,7 +21,7 @@ You will need (AUD price as of September 2023 in brackets + links to suggested s
 
 You will also need:
 
-- 3D printer (or make own case)
+- 3D printer (or, make your own case - or use without a case!)
 - Soldering iron & solder (or, buy Pico with soldered headers, and use M-F jumper cables)
 - Velcro strips (M+F) or double sided tape/strips
 - A fume hood to put it in!
