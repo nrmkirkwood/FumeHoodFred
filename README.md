@@ -1,9 +1,9 @@
 # FRED assembly and installation instructions
-A simple RPi retrofit device which mitigates emissions from fumehoods in research labs.
+FRED (Fumehood Reduction in Energy Device) is a simple, Raspberry Pi based retrofit device which mitigates emissions from fumehoods in research labs. Each FRED can reduce the amount of time a fume hood spends open by around 40% and a corresponding decrease in energy consumption (and carbon emissions!) of around 33%.
 
-For a more detailed motivation and description, see [my project post on FRED](https://nrmkirkwood.github.io/projects/fumehoodfred/).
+For a more detailed motivation, data proving that FRED works, and explanation of how the figures above are arrived at, see [my project post on FRED](https://nrmkirkwood.github.io/projects/fumehoodfred/).
 
-This Readme details how to assemble and install a 'basic' FRED with buzzers only (no Teams posting). For details on installing the 'advanced' FRED code onto a RPi running Python with WiFi and Teams posts enabled, contact me.
+This readme details how to assemble and install a 'basic' FRED with buzzers only (no Teams posting). For details on code and setup of an 'advanced' FRED with a RPi running Python with WiFi and Teams posts enabled, contact me.
 
 # Assembling a 'basic' FRED
 
