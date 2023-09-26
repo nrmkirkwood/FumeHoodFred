@@ -5,18 +5,18 @@ For a more detailed motivation, data proving that FRED works, and explanation of
 
 This readme details how to assemble and install a 'basic' FRED with buzzers only (no Teams posting). For details on code and setup of an 'advanced' FRED with a RPi running Python with WiFi and Teams posts enabled, contact me.
 
-# Assembling a 'basic' FRED
+# Assembling FRED
 
 ## Required equipment
 
-You will need (AUD price in brackets links to suggested supplier):
+You will need (AUD price in brackets links to suggested suppliers in Australia):
 
 - Raspberry Pi Pico ([$5.75](https://core-electronics.com.au/raspberry-pi-pico.html))
 - Power supply + cable ([supply $1.95](https://www.ebay.com.au/itm/284385278195), [cable $2.63](https://www.ebay.com.au/itm/384493783379))
-- Reward piezo buzzer 3V ([$2.90](https://core-electronics.com.au/piezo-buzzer-ps1240.html))
-- Alarm buzzer 3-5V ([$0.74](https://core-electronics.com.au/piezo-buzzer.html))
-- Door Switch Sensor ([$3.85](https://www.ebay.com.au/itm/154538574997))
-- Code (Python) (from this repo)
+- 'Reward' piezo buzzer 3V ([$2.90](https://core-electronics.com.au/piezo-buzzer-ps1240.html))
+- 'Alarm' buzzer 3-5V ([$0.74](https://core-electronics.com.au/piezo-buzzer.html))
+- Reed Door Switch Sensor ([$3.85](https://www.ebay.com.au/itm/154538574997))
+- Code (Python) (from this repo: [fhf.py])
 - 3D printed case and lid (from this repo: [fhf-case](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/fhf-case.stl) & [fhf-lid](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/fhf-lid.stl))
 
 You will also need:
@@ -45,7 +45,7 @@ Snap the lid on (it's a snap-fit so may require a little force). If desired draw
 
 At this stage, plug the RPi Pico into your computer and follow instructions to [install ThonnyIDE](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/2), [setup MicroPython firmware](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/3) and [use the shell to run code off the Pico](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/4).
 
-Load the [fhf-basic.py code](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/fhf-basic.py) file in Thonny and [save to your Pico as main.py](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/9). 
+Load the [fhf.py code](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/fhf.py) file in Thonny and [save to your Pico as main.py](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/9). 
 
 Now when you plug your Pico (now a FRED) into power, the onboard green LED should turn on. Move the Reed switches together and the LED should turn off and the reward buzzer should play a chromatic riff. If you leave the FRED on for 1 hour with the Reed switches apart, the alarm buzzer will sound. (You can test this for shorter time intervals by editing the main.py code and setting the alarm time to a few seconds).
 
