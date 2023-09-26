@@ -9,11 +9,11 @@ This readme details how to assemble and install a 'basic' FRED with buzzers only
 
 ## Required equipment
 
-You will need (AUD price in brackets links to suggested suppliers in Australia):
+You will need (AUD price as of September 2023 in brackets + links to suggested suppliers in Australia):
 
-- Raspberry Pi Pico ([$5.75](https://core-electronics.com.au/raspberry-pi-pico.html))
+- Raspberry Pi Pico ([$6.30](https://core-electronics.com.au/raspberry-pi-pico.html))
 - Power supply + cable ([supply $1.95](https://www.ebay.com.au/itm/284385278195), [cable $2.63](https://www.ebay.com.au/itm/384493783379))
-- 'Reward' piezo buzzer 3V ([$2.90](https://core-electronics.com.au/piezo-buzzer-ps1240.html))
+- 'Reward' piezo buzzer 3V ([$3.15](https://core-electronics.com.au/piezo-buzzer-ps1240.html))
 - 'Alarm' buzzer 3-5V ([$0.74](https://core-electronics.com.au/piezo-buzzer.html))
 - Reed Door Switch Sensor ([$3.85](https://www.ebay.com.au/itm/154538574997))
 - Code (Python) (from this repo: [fhf.py](https://github.com/nrmkirkwood/FumeHoodFred/blob/main/fhf.py))
